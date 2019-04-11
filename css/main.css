@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+}
+
+.plus, .minus, .number {
+    height: 90px;
+    border-radius: 14px;
+    width: 100px;
+    background-color: gray;
+    color: white;
+    font-size: 48px;
+}
+
+h1 {
+    font-size: 190px;
+}
+
+.number {
+    width: 230px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    border: 1px solid black;
+}
